@@ -54,7 +54,7 @@ video {
   filter: alpha(opacity=80);
   opacity: 0.8;
 }
-
+/* author: muhammed tekin */
 @media screen and (max-width: 575px) {
   .form-control {
     height: 40px;
@@ -231,7 +231,7 @@ video {
   border-top-color: #ffffff;
   animation: spin 1s linear infinite;
 }
-
+/* author: muhammed tekin */
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
@@ -274,3 +274,5 @@ video {
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
 }
+
+/* author: muhammed tekin */
